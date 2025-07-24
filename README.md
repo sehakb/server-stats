@@ -16,3 +16,5 @@ Just run the script in your terminal:
 ```bash
 bash server-stats.sh
 ```
+
+https://roadmap.sh/projects/server-stats
